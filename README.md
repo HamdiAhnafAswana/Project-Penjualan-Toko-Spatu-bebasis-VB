@@ -67,4 +67,13 @@ Berikut beberapa tampilan dari aplikasi:
 Proyek ini dikembangkan sebagai bagian dari tugas akhir pembelajaran pemrograman desktop.
 1. M. Angga Pratama : fullstack developer
 2. Hamdi Ahnaf Aswana : fullstack developer
+
+
+## 📸 Picture
+
+![Screenshot 2024-12-10 105219](https://github.com/user-attachments/assets/28ab8ed0-f493-43de-a56d-dcefc5199be9)
+
+![Screenshot 2024-12-10 105404](https://github.com/user-attachments/assets/23d80ac3-6a44-45cb-92ac-d367c53f1abd)
+
+![Screenshot 2024-12-10 105427](https://github.com/user-attachments/assets/f2631f77-bcdc-4182-9857-6d58e7523bb4)
 ---
